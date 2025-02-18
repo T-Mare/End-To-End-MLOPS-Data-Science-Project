@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tiaan/Desktop/Online%20Courses/MLOPS%20Data%20Science%20Project/End-To-End-MLOPS-Data-Science-Project/mlruns/0/7f7210d8230349a09a1e385b9f1836e1/artifacts
+end_time: 1739876381780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f7210d8230349a09a1e385b9f1836e1
+run_name: crawling-crab-505
+run_uuid: 7f7210d8230349a09a1e385b9f1836e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739876375474
+status: 4
+tags: []
+user_id: tiaan
